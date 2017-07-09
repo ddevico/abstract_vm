@@ -20,6 +20,7 @@
 
 int cptLine = 1;
 
+
 static bool isFloatNumber(const std::string& string){
   std::string::const_iterator it = string.begin();
   bool decimalPoint = false;
